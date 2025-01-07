@@ -21,7 +21,7 @@
     by <a href="https://web.math.princeton.edu/~asly/">Allan Sly</a> and <a href="https://web.math.princeton.edu/~naor/">Assaf Naor</a>.
 </p>
 <p>
-  I am interested in probability, geometry, and dynamics. 
+  I am broadly interested in probability theory. Recently, I have been thinking about probability and its applications to group theory, computer science, and dynamical systems. 
 </p>
 <p>
     Here is my <a href="Math_CV.pdf">CV</a> (updated Feb 2024).
@@ -56,40 +56,25 @@
 </details>
 <br>
 <details>
-    <summary><b style="font-size: larger">Invited talks</b></summary>
+    <summary><b style="font-size: larger">Invited and Upcoming talks</b></summary>
     <ul>
         <li>
-            Northwestern Analysis Seminar, Apr 2024
+            LA Probability Forum, Feb 2025
         </li>
         <li>
-            AMS Spring Central Sectional Meeting, Apr 2024
+            Joint Mathematics Meetings, Special Session on Descriptive Combinatorics, Dynamics, and Measured Group Theory, Jan 2025
         </li>
         <li>
-            UCLA Department Colloquium, Apr 2024
+            IAS Group Theory Seminar, Nov 2024
         </li>
         <li>
-            UPenn Analysis Seminar, Feb 2024
+            ENS Group Theory Seminar, Mar 2024
         </li>
         <li>
-            Workshop in Analysis at Georgia Institute of Technology, Dec 2023
+            Randomness and Geometry Seminar, Fields Institute, Feb 2024
         </li>
         <li>
-            Berkeley Analysis Seminar, Oct 2023
-        </li>
-        <li>
-            University of British Columbia Analysis Seminar, Oct 2023
-        </li>
-        <li>
-            Online Analysis Research Seminar, Sept 2023
-        </li>
-        <li>
-            Harmonic Analysis and Fractal Sets conference at Ohio State University, Mar 2023
-        </li>
-        <li>
-            Princeton Graduate Student Seminar, Oct 2022
-        </li>
-        <li>
-            Joint Mathematics Meetings AMS/PME student poster session, Jan 2022
+            Geometry and Topology Seminar, CUNY, Nov 2023
         </li>
     </ul>
     <br>
