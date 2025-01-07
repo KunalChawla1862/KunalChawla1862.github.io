@@ -2,8 +2,7 @@
     <head>
     </head>
 <body>
-<img src="KevinRen_040123_0004.jpg" align="right" border="0"
-        height="300">
+
 <h1>Kunal Chawla</h1>
 <p>
     he/him pronouns
