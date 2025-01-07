@@ -20,7 +20,7 @@
   I am broadly interested in probability theory. Recently, I have been thinking about probability and its applications to group theory, computer science, and dynamical systems. 
 </p>
 <p>
-    Here is my <a href="Curriculum_Vitae (8).pdf">CV</a> (updated Feb 2024).
+    Here is my <a href="Curriculum_Vitae (8).pdf">CV</a>.
 </p>
 <br>
 
