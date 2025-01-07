@@ -27,7 +27,7 @@
 <details>
     <summary><b style="font-size: larger">Publications and preprints</b></summary>
 
-    <ol type="1" start="11" reversed>
+    <ol type="1" start="4" reversed>
 
         <li>
             <a href="https://arxiv.org/abs/2310.18506">Random walks and superlinear divergent geodesics</a>
