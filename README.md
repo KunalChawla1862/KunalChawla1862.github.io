@@ -2,14 +2,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-            ol li {
-                padding: 5px 0px;
-            }
-            ul li {
-                padding: 4px 0px;
-            }
-        </style>
     </head>
 <body>
 <img src="KevinRen_040123_0004.jpg" align="right" border="0"
@@ -42,21 +34,21 @@
     <ol type="1" start="11" reversed>
 
         <li>
-            <a href="https://arxiv.org/abs/2309.04501">Random walks and superlinear divergent geodesics</a>
+            <a href="https://arxiv.org/abs/2310.18506">Random walks and superlinear divergent geodesics</a>
             (joint with Inhyeok Choi, Vivian He, and Kasra Rafi).  <em>Ergodic Theory and Dynamical Systems</em> (2023)
         </li>
     
         <li>
-            <a href="https://arxiv.org/abs/2309.04103">Genericity of contracting geodesics in groups</a>
-                (joint with Inhyeok Choi and Giultio Tiozzo). Submitted
+            <a href="https://arxiv.org/abs/2308.01877#:~:text=Let%20G%20be%20a%20finitely,Cay(G%2C%20S).">Genericity of contracting geodesics in groups</a>
+                (joint with Inhyeok Choi and Giultio Tiozzo). <em>Submitted.</em>
         </li>
         
         <li>
-            <a href="https://arxiv.org/abs/2309.04097">The Poisson boundary of hyperbolic groups without moment conditions</a>
+            <a href="https://arxiv.org/abs/2209.02114">The Poisson boundary of hyperbolic groups without moment conditions</a>
                  (joint with Behrang Forghani, Joshua Frisch, and Giulio Tiozzo). <em>Annals of Probability</em> (2022)
         </li>
         <li>
-            <a href="https://arxiv.org/abs/2308.08819">Effective drift estimates for random walks on graph products</a> Electronic Communications in Probability.
+            <a href="https://arxiv.org/abs/2204.06141">Effective drift estimates for random walks on graph products</a> <em>Electronic Communications in Probability</em>.
         </li>
         
     </ol>
