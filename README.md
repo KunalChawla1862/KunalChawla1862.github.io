@@ -32,12 +32,12 @@
 
         <li>
             <a href="https://arxiv.org/abs/2310.18506">Random walks and superlinear divergent geodesics</a>
-            (joint with Inhyeok Choi, Vivian He, and Kasra Rafi).  <em>Ergodic Theory and Dynamical Systems</em> (2023)
+            (joint with Inhyeok Choi, Vivian He, and Kasra Rafi).  <em>Ergodic Theory and Dynamical Systems</em> (2024)
         </li>
     
         <li>
             <a href="https://arxiv.org/abs/2308.01877#:~:text=Let%20G%20be%20a%20finitely,Cay(G%2C%20S).">Genericity of contracting geodesics in groups</a>
-                (joint with Inhyeok Choi and Giultio Tiozzo). <em>Submitted.</em>
+                (joint with Inhyeok Choi and Giulio Tiozzo). <em>Submitted</em> (2023)
         </li>
         
         <li>
@@ -45,7 +45,7 @@
                  (joint with Behrang Forghani, Joshua Frisch, and Giulio Tiozzo). <em>Annals of Probability</em> (2022)
         </li>
         <li>
-            <a href="https://arxiv.org/abs/2204.06141">Effective drift estimates for random walks on graph products</a> <em>Electronic Communications in Probability</em>.
+            <a href="https://arxiv.org/abs/2204.06141">Effective drift estimates for random walks on graph products</a> <em>Electronic Communications in Probability</em> (2022)
         </li>
         
     </ol>
