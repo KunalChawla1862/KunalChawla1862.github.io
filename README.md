@@ -1,37 +1,108 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KunalChawla1862/KunalChawla1862.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            ol li {
+                padding: 5px 0px;
+            }
+            ul li {
+                padding: 4px 0px;
+            }
+        </style>
+    </head>
+<body>
+<img src="KevinRen_040123_0004.jpg" align="right" border="0"
+        height="300">
+<h1>Kunal Chawla</h1>
+<p>
+    he/him pronouns
+</p>
+<p>
+    Department of Mathematics, Princeton University
+</p>
+<p>
+    Email: kunalchawla [at] princeton [dot] edu
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>I am a second year graduate student at Princeton University, advised
+    by <a href="https://web.math.princeton.edu/~asly/">Allan Sly</a> and <a href="https://web.math.princeton.edu/~naor/">Assaf Naor</a>.
+</p>
+<p>
+  I am interested in probability, geometry, and dynamics. 
+</p>
+<p>
+    Here is my <a href="Math_CV.pdf">CV</a> (updated Feb 2024).
+</p>
+<br>
 
-### Markdown
+<details>
+    <summary><b style="font-size: larger">Publications and preprints</b></summary>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <ol type="1" start="11" reversed>
 
-```markdown
-Syntax highlighted code block
+        <li>
+            <a href="https://arxiv.org/abs/2309.04501">Random walks and superlinear divergent geodesics</a>
+            (joint with Inhyeok Choi, Vivian He, and Kasra Rafi).  <em>Ergodic Theory and Dynamical Systems</em> (2023)
+        </li>
+    
+        <li>
+            <a href="https://arxiv.org/abs/2309.04103">Genericity of contracting geodesics in groups</a>
+                (joint with Inhyeok Choi and Giultio Tiozzo). Submitted
+        </li>
+        
+        <li>
+            <a href="https://arxiv.org/abs/2309.04097">The Poisson boundary of hyperbolic groups without moment conditions</a>
+                 (joint with Behrang Forghani, Joshua Frisch, and Giulio Tiozzo). <em>Annals of Probability</em> (2022)
+        </li>
+        <li>
+            <a href="https://arxiv.org/abs/2308.08819">Effective drift estimates for random walks on graph products</a> Electronic Communications in Probability.
+        </li>
+        
+    </ol>
+        
+</details>
+<br>
+<details>
+    <summary><b style="font-size: larger">Invited talks</b></summary>
+    <ul>
+        <li>
+            Northwestern Analysis Seminar, Apr 2024
+        </li>
+        <li>
+            AMS Spring Central Sectional Meeting, Apr 2024
+        </li>
+        <li>
+            UCLA Department Colloquium, Apr 2024
+        </li>
+        <li>
+            UPenn Analysis Seminar, Feb 2024
+        </li>
+        <li>
+            Workshop in Analysis at Georgia Institute of Technology, Dec 2023
+        </li>
+        <li>
+            Berkeley Analysis Seminar, Oct 2023
+        </li>
+        <li>
+            University of British Columbia Analysis Seminar, Oct 2023
+        </li>
+        <li>
+            Online Analysis Research Seminar, Sept 2023
+        </li>
+        <li>
+            Harmonic Analysis and Fractal Sets conference at Ohio State University, Mar 2023
+        </li>
+        <li>
+            Princeton Graduate Student Seminar, Oct 2022
+        </li>
+        <li>
+            Joint Mathematics Meetings AMS/PME student poster session, Jan 2022
+        </li>
+    </ul>
+    <br>
+</details>
+<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunalChawla1862/KunalChawla1862.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
