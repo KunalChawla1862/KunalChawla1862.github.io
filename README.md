@@ -3,7 +3,6 @@
     </head>
 <body>
 <img src="profilepic.jpg" align="right" border="0" height="300">
-<h1>Kunal Chawla</h1>
 <p>
     he/him pronouns
 </p>
