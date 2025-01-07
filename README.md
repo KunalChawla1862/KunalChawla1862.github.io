@@ -62,7 +62,7 @@
             LA Probability Forum, Feb 2025
         </li>
         <li>
-            Joint Mathematics Meetings, Special Session on Descriptive Combinatorics, Dynamics, and Measured Group Theory, Jan 2025
+            Special Session on Descriptive Combinatorics, Dynamics, and Measured Group Theory, Joint Mathematics Meetings, Jan 2025
         </li>
         <li>
             IAS Group Theory Seminar, Nov 2024
