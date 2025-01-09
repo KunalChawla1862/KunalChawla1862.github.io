@@ -55,6 +55,9 @@
     <summary><b style="font-size: larger">Invited and Upcoming talks</b></summary>
     <ul>
         <li>
+            UCSD Probability Seminar, Feb 2025
+        </li>
+        <li>
             LA Probability Forum, Feb 2025
         </li>
         <li>
