@@ -13,11 +13,11 @@
     Email: kunalchawla [at] princeton [dot] edu
 </p>
 
-<p>I am a second year graduate student at Princeton University, advised
+<p>I am a second year graduate student at Princeton University, working with
     by <a href="https://web.math.princeton.edu/~asly/">Allan Sly</a> and <a href="https://web.math.princeton.edu/~naor/">Assaf Naor</a>.
 </p>
 <p>
-  I am broadly interested in probability theory. Recently, I have been thinking about probability and its applications to group theory, computer science, and dynamical systems. 
+  I am broadly interested in probability theory. Recently, I have been thinking about probability and its applications to group theory, computer science, and dynamical systems. My research is currently funded by a PGS-D award from the National Sciences and Engineering Research Council of Canada, as well as a Centennial Fellowship.
 </p>
 <p>
     Here is my <a href="Curriculum_Vitae (8).pdf">CV</a>.
