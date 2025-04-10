@@ -14,7 +14,7 @@
 </p>
 
 <p>I am a second year graduate student at Princeton University, working with
-    by <a href="https://web.math.princeton.edu/~asly/">Allan Sly</a> and <a href="https://web.math.princeton.edu/~naor/">Assaf Naor</a>.
+ <a href="https://web.math.princeton.edu/~asly/">Allan Sly</a> and <a href="https://web.math.princeton.edu/~naor/">Assaf Naor</a>.
 </p>
 <p>
   I am broadly interested in probability theory. Recently, I have been thinking about probability and its applications to group theory, computer science, and dynamical systems. My research is currently funded by a PGS-D award from the National Sciences and Engineering Research Council of Canada, as well as a Centennial Fellowship.
@@ -36,7 +36,7 @@
     
         <li>
             <a href="https://arxiv.org/abs/2308.01877#:~:text=Let%20G%20be%20a%20finitely,Cay(G%2C%20S).">Genericity of contracting geodesics in groups</a>
-                (joint with Inhyeok Choi and Giulio Tiozzo). <em>Submitted</em> (2023)
+                (joint with Inhyeok Choi and Giulio Tiozzo). <em>To Appear in Groups, Geometry, and Dynamics</em> (2023)
         </li>
         
         <li>
