@@ -30,6 +30,11 @@
     <ol type="1" start="4" reversed>
 
         <li>
+            <a href="">Non-realizability of the Poisson boundary</a>
+            (joint with Joshua Frisch).  <em>Arxiv preprint</em> (2024)
+        </li>
+
+        <li>
             <a href="https://arxiv.org/abs/2310.18506">Random walks and superlinear divergent geodesics</a>
             (joint with Inhyeok Choi, Vivian He, and Kasra Rafi).  <em>Ergodic Theory and Dynamical Systems</em> (2024)
         </li>
