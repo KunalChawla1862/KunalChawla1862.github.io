@@ -27,11 +27,11 @@
 <details>
     <summary><b style="font-size: larger">Publications and preprints</b></summary>
 
-    <ol type="1" start="4" reversed>
+    <ol type="1" start="5" reversed>
 
         <li>
             <a href="Non_Realizability_of_the_Poisson_Boundary (4).pdf">Non-realizability of the Poisson boundary</a>
-            (joint with Joshua Frisch).  <em>Arxiv preprint</em> (2024)
+            (joint with Joshua Frisch).  <em>Arxiv preprint</em> (2025)
         </li>
 
         <li>
