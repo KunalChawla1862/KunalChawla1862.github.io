@@ -64,6 +64,9 @@
 <details>
     <summary><b style="font-size: larger">Invited and Upcoming talks</b></summary>
     <ul>
+         <li>
+            YMCN Autumn school: Probability and dynamics on groups, Munster, Sep 2025
+        </li>
         <li>
             UCSD Probability Seminar, Feb 2025
         </li>
