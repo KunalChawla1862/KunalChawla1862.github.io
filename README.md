@@ -31,12 +31,12 @@
 
         <li>
             <a href="https://arxiv.org/abs/2509.02500">The Poisson boundary of discrete subgroups of semisimple Lie groups without moment conditions</a>
-            (joint with Behrang Forghani, Joshua Frisch, and Giulio Tiozzo).  <em>Arxiv preprint</em> (2025)
+            (joint with Behrang Forghani, Joshua Frisch, and Giulio Tiozzo).  <em>arxiv preprint</em> (2025)
         </li>
     
         <li>
             <a href="https://arxiv.org/abs/2506.14029">Non-realizability of the Poisson boundary</a>
-            (joint with Joshua Frisch).  <em>Arxiv preprint</em> (2025)
+            (joint with Joshua Frisch).  <em>arxiv preprint</em> (2025)
         </li>
 
         <li>
