@@ -13,7 +13,7 @@
     Email: kunalchawla [at] princeton [dot] edu
 </p>
 
-<p>I am a second year graduate student at Princeton University, working with
+<p>I am a third year graduate student at Princeton University, working with
  <a href="https://web.math.princeton.edu/~asly/">Allan Sly</a> and <a href="https://web.math.princeton.edu/~naor/">Assaf Naor</a>.
 </p>
 <p>
@@ -30,7 +30,12 @@
     <ol type="1" start="5" reversed>
 
         <li>
-            <a href="Non_Realizability_of_the_Poisson_Boundary (4).pdf">Non-realizability of the Poisson boundary</a>
+            <a href="https://arxiv.org/abs/2509.02500)">The Poisson boundary of discrete subgroups of semisimple Lie groups without moment conditions</a>
+            (joint with Behrang Forghani, Joshua Frisch, and Giulio Tiozzo).  <em>Arxiv preprint</em> (2025)
+        </li>
+    
+        <li>
+            <a href="https://arxiv.org/abs/2506.14029">Non-realizability of the Poisson boundary</a>
             (joint with Joshua Frisch).  <em>Arxiv preprint</em> (2025)
         </li>
 
